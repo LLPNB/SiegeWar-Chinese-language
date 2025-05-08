@@ -1,1 +1,1 @@
-把文件放在:\plugins\SiegeWar\lang\reference
+把文件放在:\plugins\SiegeWar\lang\override
